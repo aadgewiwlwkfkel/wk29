@@ -1,0 +1,45 @@
+{
+    "serviceEnabled": true,
+    "gameFeedTwitter": {
+        "battleRip": {
+            "apiKey": "ODxCAWB5QW4jvNxWTsG81jVCp",
+            "apiKeySecret": "40PL8U3ZEZkJyo4QnSkcXyaR8MU7BiA8gmZEondyqNRRDDspCs",
+            "accessToken": "1252845034912706560-Jso2vn0iTuNl4P391hz22U3NPyVWuH",
+            "accessTokenSecret": "5t8xV88e0H64e8URB33OFLj4E7Vub7njPVARhn1kFDs3g"
+        },
+        "uhcHub": {
+            "apiKey": "auKQ09Sf7qqUKjpTw9OBVEQBB",
+            "apiKeySecret": "4zIe5BpkU6sJwqNY9Oaep9UozzfCCUFwnD9fonN8E4XwZ6gOhR",
+            "accessToken": "1090957531344711681-XNn91Vj5CCZh0ZJi5erhLJ37imoU4Y",
+            "accessTokenSecret": "vgbWgtoc2iSc14xRvb06sU5pu2yXr3ocwAm7IsIIfTgbc"
+        },
+        "_": {
+            "apiKey": "IqJmHkMY4HSGcRA9XikZ6D6ar",
+            "apiKeySecret": "lWEO8ekXZyl7AY2Z2dR4gickvbG9Aw2y2oTCG4jzImMVgSt7q6",
+            "accessToken": "1115976742093692928-TGriu6qNyfglN8lc9eZ69XQ0SMM6c6",
+            "accessTokenSecret": "HEhFaa5VYlxG4c6PAJZ0tPniYRwFlNQSsWt78Gr1sPcUQ"
+        }
+    },
+    "gameFeedDiscord": {
+        "battleRip": {
+            "webhookUrl": "https://discord.com/api/webhooks/960688660582391828/WmjexeNPykhDT-jWfROsM7b33LfcS6jKMHwk1DPrrON17iw0ZILK8Nw175SIaxs3JZ1J",
+            "channelId": "934510061760438342",
+            "notifyRoleId": "853273615448670248"
+        },
+        "uhcHub": {
+            "webhookUrl": "https://discord.com/api/webhooks/960987767649738763/uPkcGGRjez2N4SiA1JVKj8isVBhSpYQqdGz50J6JN1V5heonDumto3fzE2sGtHQF2LrH",
+            "channelId": "601103709161652224",
+            "notifyRoleId": "620273480272969748"
+        }
+    },
+    "matchTableDiscord": {
+        "battleRip": {
+            "webhookUrl": "https://discord.com/api/webhooks/961007639452598314/DhFp5OssmbLcoRa2f0fyJoIxdBnEaz7sEbjq22FYC1WpJlZVqzlXeufkyXmxalrGx3m4",
+            "messageId": "961012763084324984"
+        },
+        "uhcHub": {
+            "webhookUrl": "https://discord.com/api/webhooks/961007741508403250/bqKJkdDf2cqJ2lbl9QWPQdszg0w8r3c3vTczRdjsZ4elTh8Gaucg_fcVBBuZ0jGLfL08",
+            "messageId": "961013811291238430"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "battle.rip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xemah",
+  "license": "ISC",
+  "dependencies": {
+    "@gerhobbelt/markdown-it-inline-text-color": "^1.0.1-1",
+    "axios": "^0.26.0",
+    "bcrypt": "^5.0.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.2",
+    "format": "^0.2.2",
+    "html-entities": "^2.3.2",
+    "klaw-sync": "^6.0.0",
+    "mailgen": "^2.0.14",
+    "marked": "^4.0.12",
+    "mongoose": "^6.2.0",
+    "node-fetch": "^2.6.7",
+    "node-input-validator": "^4.5.0",
+    "nodemailer": "^6.7.2",
+    "nunjucks": "^3.2.3",
+    "pm2": "^5.2.0",
+    "twit": "^2.2.11"
+  }
+}

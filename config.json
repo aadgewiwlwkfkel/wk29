@@ -1,0 +1,26 @@
+{
+	"port": 3000,
+	"apiAuthKey": "1ZUU2RHCaULpPcyppQ1F80ufcLB6L5hyft34aNsxsdOrilCCTm8pRCINFWOfLnHjEUa5L2hHWp2U4PuLjkdCFGFe6nDFb1IAcHQMIo05qyhLkLf2kuBfQmjReF6brvQq",
+	"sessionSecret": "2b2b3ba94bb93304564c0709dffd91213eb31093db5b4a65556cae2e8baec33a30d77db66c15ca844d3a3fa0bb029e2f61ac7b6474984454875192831f8ac9f7",
+	"databases": {
+		"website": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/website?authSource=admin",
+		"core": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/core?authSource=admin",
+		"uhc": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/uhc?authSource=admin",
+		"hcf": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/hcf?authSource=admin",
+		"arenapvp": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/arenapvp?authSource=admin",
+		"kitmap": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/kitmap?authSource=admin",
+		"meetup": "mongodb://battlemongo:TL4JNnNK%3C3DC%7D9b%3A79@103.195.102.35:27017/meetup?authSource=admin"
+	},
+	"superUsers": [
+		"Xemah"
+	],
+	"email": {
+		"name": "Stormworth",
+		"address": "support@stormworth.cc",
+		"host": "cmail01.mailhost24.de",
+		"port": 25,
+		"username": "support@stormworth.cc",
+		"password": "imTWNuAFDmivKq9dP4fh",
+		"secure": false
+	}
+}
